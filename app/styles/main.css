@@ -1,0 +1,67 @@
+.container {
+    margin-top: 20px;
+}
+.c-user-profile {
+    border: none;
+}
+.c-user-profile .panel-body {
+    border: 1px solid black;
+    border-radius: 5px;
+    overflow: hidden;
+    padding-bottom: 0px;
+}
+
+.c-user-profile img,.c-user-profile .c-avatar {
+    width: 64px;
+    height: 64px;
+    position: relative;
+    background: rgb(146, 146, 226);
+}
+
+.c-title, .c-avatar {
+    float: left;
+}
+
+.c-user-profile img {
+    vertical-align: inherit;
+}
+.c-avatar {
+    height: 64px;
+    width: 64px;
+    background: #000;
+    font-size: 40px;
+    color: #FFF;
+    text-align: center;
+    line-height: 64px;
+}
+
+.c-title {
+    margin-left: 5px;
+    width: 250px;
+}
+.c-title h2 {
+    font-size: 25px;
+    margin: 0;
+}
+
+.c-title h3 {
+    font-size: 15px;
+    margin: 0;
+}
+
+.c-stats {
+    padding-top: 5px;
+    float: left;
+}
+.c-stats p {
+    font-size: 12px;
+    margin: 0;
+}
+
+.c-chart {
+    float: left;
+}
+
+.c-chart p {
+    font-size: 10px;
+}
