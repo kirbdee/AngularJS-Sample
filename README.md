@@ -16,7 +16,7 @@ Notes/Challenges:
 - I used yeoman, bower, and grunt to help wiht the development.
 - ChartJS and talking to the scoped data within angularJS was tricky but was able to figure that out. (though I feel there is -a better way to do it than what i've implemented). 
 - I learned some new nuances about angular that I wasnt aware of before. such as the factory calls being deffered.
-- I tried to use the SASS version of bootstrap but I wasn't able to get that configured properly (never worked with less or - sass before).
+- I tried to use the SASS version of bootstrap but I wasn't able to get that configured properly (never worked with less or sass before).
 
 The main files I worked with are:
 - index.html
