@@ -10,7 +10,6 @@ Once in run with the command (Assuming you have grunt installed) 'grunt serve' t
 
 Notes/Challenges:
 - Noticed some of the urls for the avatars are invalid or missing added onerror attribtue to help with this in the html
-- I've only started learning AngularJS/NodeJS a few months ago.
 - I thought it would be pretty neat to use AngularJS for this app.
 - I used bootstrap to help with styling and responsiveness.
 - I used yeoman, bower, and grunt to help wiht the development.
