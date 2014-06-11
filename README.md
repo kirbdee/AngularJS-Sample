@@ -3,6 +3,10 @@ AngularJS-Sample
 
 Live Sample : http://kirbdees-angularjs-sample.herokuapp.com/
 
+Goals: 
+https://github.com/kirbdee/AngularJS-Sample/blob/master/app/JS%20Developer%20Challenge.pdf
+https://github.com/kirbdee/AngularJS-Sample/blob/master/app/Code-Challenge-Mockup.png
+
 Instructions to run:
 Download and Unzip
 In the terminal cd in to the unzipped file
