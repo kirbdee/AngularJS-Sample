@@ -2,7 +2,7 @@ var http = require('http'),
     path = require('path'),
     fs = require('fs');
 
-var defaultPath = './app/';
+var defaultPath = 'app/';
 
 var port = Number(process.env.PORT || 8000);
 
